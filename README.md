@@ -48,7 +48,7 @@ Run app
 nom run dev
 ```
 Frontend runs on:
-http://localhost:3000
+http://localhost:5175/
 
 ## 🔗 API Endpoint
 
